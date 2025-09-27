@@ -1,16 +1,16 @@
-# 🌐 Web Development Quiz App  
+<img width="910" height="644" alt="image" src="https://github.com/user-attachments/assets/2278c97e-0e20-471f-b62c-c365db1a10e3" /># 🌐 Web Development Quiz App  
 
 An **interactive and secure quiz platform** built with **HTML, CSS and JavaScript**.  
 This app helps students prepare for **exams and viva** by practicing 300+ MCQs.  
 
-**Key features include:  **
+**Key features include:**
 - Login with student name (to personalize experience).  
 - Secure quiz interface (copy-protection, anti-cheating features).  
 - Timer-based questions with automatic next-question handling.  
 - Beautiful animations and responsive design.  
 - Final score display with congratulatory message. <br> <hr>
 
-## 📸 Preview  
+##  Preview  
 
 ###  Login Page
 <img width="761" height="380" alt="image" src="https://github.com/user-attachments/assets/094e15d0-2fe3-4836-bd20-f5826859b6e0" /> <br>
@@ -37,13 +37,13 @@ This app helps students prepare for **exams and viva** by practicing 300+ MCQs.
 
 ###  Login Page  
 Users enter their name to start the quiz.  
-Login Screenshot <img width="761" height="380" alt="image" src="https://github.com/user-attachments/assets/03a8fa23-3e8b-447c-aa18-9938d42caa4f" /> <br>
-  
+Login Screenshot<br> <img width="761" height="380" alt="image" src="https://github.com/user-attachments/assets/03a8fa23-3e8b-447c-aa18-9938d42caa4f" /> <br>
+  <br>
 
 ###  Quiz Interface  ?
 Questions are displayed in a multiple-choice format with a timer and answer options.  
 Quiz Interface Screenshot<img width="828" height="619" alt="image" src="https://github.com/user-attachments/assets/e085362b-9393-4867-b387-681c4eaa606c" />
-<br>
+<br><br>
 
 ###  Correct Answer Example  
 When the user selects the correct answer, the button turns green and a success message appears.  
@@ -52,7 +52,8 @@ Correct Output <img width="900" height="628" alt="image" src="https://github.com
 
 ###  Incorrect Answer Example  
 When the user selects the wrong answer, the button turns red and a warning message appears.  
-Incorrect Output (./docu/images/uncorrect_output.jpg)  <br><br> <hr>
+Incorrect Output: <br> <img width="910" height="644" alt="image" src="https://github.com/user-attachments/assets/d87d6cf1-0717-4c46-b4c8-465440095955" />
+  <br><br> <hr>
 
 
 ## Installation & Usage  
@@ -64,23 +65,27 @@ Follow the steps below to set up and run the project locally:
    git clone https://github.com/YasirAwan4831/webdev-quiz-app.git
     <br>
 
-2. **Navigate to the Project Folder**
+2. **Navigate to the Project Folder**:
+    ```bash
    cd webdev-quiz-app
     <br>
 
 
 3. **Open in VS Code (or any code editor)**
+  ```bash
   code .
  <br>
 
 4. **Run the Application**
+
     Simply open index.html or quiz.html in your browser.
+
     Make sure JavaScript is enabled. <br>
  <br><hr>
 
 
 ## 𝐅𝐨𝐥𝐝𝐞𝐫 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞
-webdev-quiz-app/
+webdev-quiz-app/ <br>
 │
 ├── index.html                # Login page (enter name to start quiz)<br>
 ├── quiz.html                 # Main quiz page <br>
@@ -168,7 +173,7 @@ synchronize results when they reconnect to the internet. <br><hr>
 
 ### Author
 
-**Muhammad Yasir**
+**Muhammad Yasir**<br>
  Passionate Web Developer & IT Student
 
 
