@@ -1,0 +1,46 @@
+<b> MIT License  </b>
+
+Copyright (c) 2025 Muhammad Yasir
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this program  and associated documentation files (the program ), to deal
+in the program  are without restriction, including without limitation the rights 
+to use, copy, modify, merge, publish, distribute, sublicense and/or sell 
+copies of the program and to permit persons to whom the program is furnished 
+to do so, subject to the following conditions:
+
+1. Attribution
+   ------------
+   - Proper credit must be given to the original author (Muhammad Yasir).
+   - Any distribution of this program, modified or unmodified, must clearly 
+     mention the author’s name.
+
+2. Permission Requirement
+   -----------------------
+   - Anyone using this program  for academic, research or commercial purposes 
+     must first obtain explicit permission from the author.  
+   - Unauthorized commercial use is strictly prohibited.
+
+3. Modifications
+   --------------
+   - You are free to modify the program for personal or educational purposes.
+   - If modifications are redistributed, they must be documented and clearly 
+     identified as changes to the original program.
+
+4. Limitation of Liability
+   ------------------------
+   THE program  IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL 
+   THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING 
+   FROM, OUT OF OR IN CONNECTION WITH THE program OR THE USE OR OTHER 
+   DEALINGS IN THE program .
+
+5. Additional Notes
+   -----------------
+   - This project is created for **educational purposes** and to support 
+     students in learning and preparing for quizzes.  
+   - Future versions may be released as mobile or SaaS-based applications.  
+   - Contributions are welcome but must align with the open-source spirit of 
+     this License.

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz - MyQuizApp</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="brand-header">
+     Web Development Q/A
+  </header>
+
+  <main class="quiz-container">
+    <section class="quiz-header">
+      <div class="quiz-title">
+        <h2>Quiz</h2>
+      </div>
+      <div class="timer">
+        Time: <span id="timer">15</span>s
+      </div>
+    </section>
+
+    <section class="question-container">
+      <p id="question-text">Loading question...</p>
+      <div id="options"></div>
+      <p id="answer-message"></p>
+    </section>
+
+    <section class="quiz-footer">
+      <div class="progress">
+        <span id="current-question">1</span> of 
+        <span id="total-questions">300</span> Questions
+      </div>
+      <button id="next-btn" disabled>Next</button>
+    </section>
+  </main>
+
+  <footer class="page-footer">
+  <div class="footer-content">
+    <span>© Copyrights 2025, </span>
+    <b>Muhammad Yasir</b>
+    <span> | All rights reserved | </span>
+    <span class="brand">Star Developer</span>
+  </div>
+</footer>
+
+  <!-- Load Questions First -->
+  <script src="questions/mcqs.js"></script>
+  <!-- Quiz Logic -->
+  <script src="js/quiz.js"></script>
+</body>
+</html>
