@@ -1,4 +1,4 @@
-<img width="910" height="644" alt="image" src="https://github.com/user-attachments/assets/2278c97e-0e20-471f-b62c-c365db1a10e3" /># 🌐 Web Development Quiz App  
+# 🌐 Web Development Quiz App  
 
 An **interactive and secure quiz platform** built with **HTML, CSS and JavaScript**.  
 This app helps students prepare for **exams and viva** by practicing 300+ MCQs.  
@@ -52,7 +52,7 @@ Correct Output <img width="900" height="628" alt="image" src="https://github.com
 
 ###  Incorrect Answer Example  
 When the user selects the wrong answer, the button turns red and a warning message appears.  
-Incorrect Output: <br> <img width="910" height="644" alt="image" src="https://github.com/user-attachments/assets/d87d6cf1-0717-4c46-b4c8-465440095955" />
+Incorrect Output: <br> <img width="910" height="644" alt="image" src="https://github.com/user-attachments/assets/2278c97e-0e20-471f-b62c-c365db1a10e3" />
   <br><br> <hr>
 
 
@@ -63,20 +63,21 @@ Follow the steps below to set up and run the project locally:
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/YasirAwan4831/webdev-quiz-app.git
-    <br>
+  
 
 2. **Navigate to the Project Folder**:
     ```bash
    cd webdev-quiz-app
-    <br>
+
 
 
 3. **Open in VS Code (or any code editor)**
-  ```bash
-  code .
- <br>
+    ```bash
+  code.
 
-4. **Run the Application**
+
+
+4.   **Run the Application**
 
     Simply open index.html or quiz.html in your browser.
 
@@ -85,7 +86,8 @@ Follow the steps below to set up and run the project locally:
 
 
 ## 𝐅𝐨𝐥𝐝𝐞𝐫 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞
-webdev-quiz-app/ <br>
+    ```bash
+**webdev-quiz-app/** <br>
 │
 ├── index.html                # Login page (enter name to start quiz)<br>
 ├── quiz.html                 # Main quiz page <br>
